@@ -34,7 +34,7 @@
 		</image>
 
 		<hotspot type="image" name="spot3" url="skin/vtourskin_hotspot_point.png" style="skin_hotspotstyle" ath="122.592" atv="7.905" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />
-		<hotspot name="text" style="custom_hotspotext"  html="새별오름 " ath="122.592" atv="1.5" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
+		<hotspot name="text" style="custom_hotspotext"  html="새별오름 " ath="122.592" atv="3" distorted="false" zoom="false" linkmodal="modal1" onclick="custom_hotspotstyle_click();" />		
 
 
 	</scene>
